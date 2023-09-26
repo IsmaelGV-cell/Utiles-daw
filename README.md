@@ -36,7 +36,7 @@ void test{
 
 #Imagenes externas
 
-![](https://es.wikipedia.org/static/images/icons/wikipedia.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Xbox_app_logo.svg/2048px-Xbox_app_logo.svg.png)
 
 #Imagenes internas
 
